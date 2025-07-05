@@ -14,5 +14,5 @@
 
 ## :star2: About the Project
 
-<p> Integrate all skills into one complete web app.
- Develop a final project with dynamic features, using HTML, CSS, and JavaScript.</p>
+<p> Integrate all skills into one complete web app.</p>
+<p> Develop a final project with dynamic features, using HTML, CSS, and JavaScript.</p>
