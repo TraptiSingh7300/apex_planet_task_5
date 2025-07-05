@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-<img src=https://tse4.mm.bing.net/th/id/OIP.3UYBoJjee_9YYahmEereDwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3 alt="logo" width=600 height=400 />
+<img src="https://tse4.mm.bing.net/th/id/OIP.3UYBoJjee_9YYahmEereDwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" alt="logo" width=600 height=400 />
 
 <h1>Final Project and Optimization</h1>
 <p>Build a comprehensive web app and ensure its performance, responsiveness, and compatibility.</p>
